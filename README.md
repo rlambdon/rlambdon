@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a technology professional that occasionally works on independent development projects.
+
 <!--
 **rlambdon/rlambdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
